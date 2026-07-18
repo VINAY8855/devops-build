@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
